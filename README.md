@@ -2,17 +2,14 @@
  <img alt="YOUR-ALT-TEXT" src="https://i.imgur.com/iIsrXM7.png">
 </picture>
 
-<!--
-**greenbar91/greenbar91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on making a new website for MidLife Minimalists.
+  
+- 🌱 I’m currently learning Tailwind and Material UI.
+  
+- 👯 I’m looking to collaborate on any open source web dev projects!
+  
+- 💬 Ask me about fantasy novels! Seriously, I can talk for hours.
+  
+- 📫 How to reach me: jdietz981@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
