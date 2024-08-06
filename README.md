@@ -1,4 +1,6 @@
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/iIsrXM7.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/iIsrXM7.png">
  <img alt="YOUR-ALT-TEXT" src="https://i.imgur.com/iIsrXM7.png">
 </picture>
 
